@@ -1,5 +1,7 @@
 # Documentation
 <br><br>
+<img src="image.jpg">
+<br><br>
 _**<a href="https://foxdeveloper.tk/ru-ru/about/project/">О проекте</a> | <a href="https://foxdeveloper.tk/ru-ru/about/authors/">Об авторах</a> | <a href="https://foxdeveloper.tk/ru-ru/about/functions/">О функциях</a>**_
 <br><br><br>
 # <a href="https://foxdeveloper.tk/ru-ru/about/project/">О проекте</a>
